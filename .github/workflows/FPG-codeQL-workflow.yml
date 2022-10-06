@@ -1,5 +1,5 @@
 
-    name: "CodeQL Check"
+    name: "CodeQL Checks"
     
     on:
       push:
